@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SendEmailApp</string>
+
+    <string name="enter_subject">Enter Subject</string>
+    <string name="enter_gmail_id">Enter gmail-id</string>
+    <string name="enter_text">Enter Text</string>
+    <string name="send_admin_email">Send Admin Email:</string>
+    <string name="currently_supported_email">Gmail Only</string>
+    <string name="enter_email_password">Enter Email Password</string>
+</resources>
